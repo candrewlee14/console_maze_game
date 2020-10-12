@@ -1,1 +1,1 @@
-windows-curses; sys_platform == 'windows'
+windows-curses; sys_platform == 'win32'
